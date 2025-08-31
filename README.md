@@ -1,10 +1,9 @@
 <hr>
 <h1 align="center">
 	<a href="#">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=500&size=30&pause=1000&color=8A8A8A&center=true&width=435&lines=%F0%9F%91%8B+Servus%2C+I'm+Panda;%F0%9F%92%BB+Developer+%40+Modern+Gaming;%F0%9F%A4%96+I'm+the+developer+of+Pandify" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.herokuapp.com/demo/?font=Arial&weight=500&size=30&color=8A8A8A&center=true&vCenter=true&width=460&lines=%F0%9F%91%8B+Servus%2C+I'm+Panda;%F0%9F%92%BB+Developer+%40+Modern+Gaming;%F0%9F%A4%96+I'm+the+developer+of+Pandify" alt="Typing SVG" />
 	</a>
 </h1>
-<hr>
 
 <div align="center">
 	<a href="#" target="_blank">
