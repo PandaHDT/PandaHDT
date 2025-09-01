@@ -47,7 +47,7 @@
 <hr>
 <h3 align="left">Nützliche Links:</h3>
 <div align="center">
-	<span style="font-size:1.2em;font-weight:bold;color:#A848A6;letter-spacing:1px;">Pandify</span>
+	<span style="font-size:1.2em;font-weight:bold;color:#A848A6;letter-spacing:1px;">Pandify - Public Discord Bot (WIP)</span>
 </div>
 <div align="center" style="margin-top:10px;">
 	<table>
