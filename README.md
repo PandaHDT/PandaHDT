@@ -70,7 +70,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&height=80&lines=PASSION+DETECTED;💻+Kein+Profi%252C+aber+voller+Leidenschaft!;🌌+Lernen+Experimentieren+Innovieren" alt="Motivation Message">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&height=80&lines=PASSION+DETECTED;%F0%9F%92%BB+Kein+Profi%252C+aber+voller+Leidenschaft!;%F0%9F%8C%8C+Lernen+Experimentieren+Innovieren" alt="Motivation Message">
       </td>
     </tr>
   </table>
