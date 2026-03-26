@@ -7,7 +7,7 @@
 
 <div align="center">
 	<a href="#" target="_blank">
-		<img src="https://discord.c99.nl/widget/theme-4/364088330616569866.png" alt="discordembed">
+		<img src="https://discord.c99.nl/widget/theme-3/364088330616569866.png" alt="discordembed">
 	</a>
 </div>
 <hr>
@@ -53,7 +53,7 @@
 	<table>
 		<tr>
 			<td align="center" style="padding: 15px;">
-				<a href="https://pandahdt.de/pandify/terms-of-service/" target="_blank" style="text-decoration: none;">
+				<a href="https://pandify.net/terms-of-service/" target="_blank" style="text-decoration: none;">
 					<img src="https://img.icons8.com/ios-filled/50/8A8A8A/document--v1.png" alt="Terms Icon" width="30" height="30"><br>
 					<span style="color:#8A8A8A;font-weight:bold;">Terms of Service</span>
 				</a>
@@ -61,7 +61,7 @@
 		</tr>
 		<tr>
 			<td align="center" style="padding: 15px;">
-				<a href="https://pandahdt.de/pandify/privacy-policy/" target="_blank" style="text-decoration: none;">
+				<a href="https://pandify.net/privacy-policy/" target="_blank" style="text-decoration: none;">
 					<img src="https://img.icons8.com/ios-filled/50/8A8A8A/privacy.png" alt="Privacy Icon" width="30" height="30"><br>
 					<span style="color:#8A8A8A;font-weight:bold;">Privacy Policy</span>
 				</a>
