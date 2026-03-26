@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%91%8B%F0%9F%8F%BB+Servus%252C+I%27m+Panda;%F0%9F%A4%96+Developer+of+Pandify+Bot" alt="Greeting">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&height=80&lines=%F0%9F%91%8B%F0%9F%8F%BB+Servus+I%27m+Panda;%F0%9F%A4%96+Developer+of+Pandify+Bot" alt="Greeting">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
