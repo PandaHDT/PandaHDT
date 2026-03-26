@@ -4,11 +4,9 @@
 ⚡ PANDAHDT ⚡
 </h1>
 
-<h2 style="color: #00ffff; font-family: 'JetBrains Mono', monospace; margin: 10px 0;">
-👋🏻 Servus, I'm Panda<br>
-🤖 Developer of Pandify Bot<br>
-💻 Cyber Developer
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&height=80&lines=👋🏻+Servus%2C+I'm+Panda;🤖+Developer+of+Pandify+Bot" alt="Greeting">
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -69,11 +67,13 @@
 </h2>
 
 <div align="center">
-  <h3 style="color: #ff006e; font-family: 'JetBrains Mono', monospace; text-align: center;">
-    ██ PASSION DETECTED ██<br>
-    💻 Kein Profi, aber voller Leidenschaft!<br>
-    🌌 Lernen • Experimentieren • Innovieren
-  </h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=FF006E&center=true&vCenter=true&multiline=true&width=600&height=80&lines=██+PASSION+DETECTED+██;💻+Kein+Profi%2C+aber+voller+Leidenschaft!;🌌+Lernen+•+Experimentieren+•+Innovieren" alt="Motivation Message">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
