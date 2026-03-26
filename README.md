@@ -1,11 +1,13 @@
-<!-- ═══════════════════════════════════════════════════ CYBER MATRIX HEADER ═══════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════ CYBER PROFILE HEADER ═══════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-![Matrix Rain](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=PANDA%20HDT&fontSize=60&fontAlignY=35&desc=Cyber%20Developer%20%E2%80%A2%20Matrix%20Architect%20%E2%80%A2%20Code%20Innovator&descAlignY=51&descAlign=50&fontColor=00ffff)
+
+<h1 style="font-family: 'JetBrains Mono', monospace; background: linear-gradient(45deg, #00ffff, #ff006e); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 3em; margin: 20px 0;">
+⚡ PANDA HDT ⚡
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%96%88%E2%96%88%E2%96%88+CYBER+GREETING+%E2%96%88%E2%96%88%E2%96%88;%F0%9F%91%8B%F0%9F%8F%BB+Servus%2C+I'm+Panda;%F0%9F%91%BE+Developer+of+Pandify+Bot" alt="Cyber Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&height=60&lines=👋🏻+Servus%2C+I'm+Panda;🤖+Developer+of+Pandify+Bot;💻+Cyber+Developer" alt="Cyber Greeting">
 </p>
 
 <!-- ═══════════════════════════ NEON DIVIDER ═══════════════════════════ -->
@@ -14,17 +16,12 @@
 <!-- ═══════════════════════════════════════════════════ DISCORD STATUS ═══════════════════════════════════════════════════ -->
 
 <h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" alt="Joystick" width="35" height="35" />
-  <span style="background: linear-gradient(45deg, #ff006e, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'JetBrains Mono', monospace;">NETWORK STATUS</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Gaming" width="35" height="35" />
+  <span style="background: linear-gradient(45deg, #ff006e, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'JetBrains Mono', monospace;">DISCORD STATUS</span>
 </h2>
 
 <div align="center">
-  <a href="https://discord.gg/your-server" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD_STATUS-%7C%7C%7C%20ONLINE-%2300ff88?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e&color=16213e"/>
-  </a>
-  <a href="https://discord.c99.nl/widget/theme-3/364088330616569866.png" target="_blank">
-    <img src="https://discord.c99.nl/widget/theme-3/364088330616569866.png" alt="Discord Status" style="border: 2px solid #00ffff; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);">
-  </a>
+  <img src="https://discord.c99.nl/widget/theme-3/364088330616569866.png" alt="Discord Status" style="border: 2px solid #00ffff; border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);">
 </div>
 
 <!-- ═══════════════════════════ NEON DIVIDER ═══════════════════════════ -->
@@ -39,34 +36,26 @@
 
 <div align="center">
 
-<!-- Frontend Matrix -->
+<!-- Tech Icons Matrix -->
 <table>
 <tr>
 <td align="center" width="120">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" style="filter: drop-shadow(0 0 15px #e34c26);"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" style="filter: drop-shadow(0 0 15px #e34c26);"/>
   <br/>
   <sub><b>HTML5</b></sub>
 </td>
 <td align="center" width="120">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" style="filter: drop-shadow(0 0 15px #1572b6);"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" style="filter: drop-shadow(0 0 15px #1572b6);"/>
   <br/>
   <sub><b>CSS3</b></sub>
 </td>
 <td align="center" width="120">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" style="filter: drop-shadow(0 0 15px #f7df1e);"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" style="filter: drop-shadow(0 0 15px #f7df1e);"/>
   <br/>
   <sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="120">
-  <a href="https://www.lua.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="Lua" style="filter: drop-shadow(0 0 15px #2c2d72);"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=lua" width="65" height="65" alt="Lua" style="filter: drop-shadow(0 0 15px #2c2d72);"/>
   <br/>
   <sub><b>Lua</b></sub>
 </td>
